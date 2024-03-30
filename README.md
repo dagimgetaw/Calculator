@@ -1,2 +1,3 @@
-# Calculator
-Simple calculator HTML + CSS no javascript
+## Calculator
+
+Simple calculator HTML + CSS + js
